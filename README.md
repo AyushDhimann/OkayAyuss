@@ -1,6 +1,6 @@
-# OkayAyuss Telegram Bot
+# OkayAyuss Telegram Bot [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram)](https://t.me/OkayAyussbot)
 
-Try how it feels like talking to me 😜 hehehehehe.
+Try how it feels like talking to me 😜 hehehehehe. 
 
 # Usage
 
