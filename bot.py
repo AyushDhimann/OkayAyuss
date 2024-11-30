@@ -12,10 +12,10 @@ import google.generativeai as genai
 load_dotenv()
 BOT_TOKEN = os.getenv('BOT_TOKEN')
 OPENWEATHERMAP_API_KEY = os.getenv('OPENWEATHERMAP_API_KEY')
-GENAI_API_KEY = os.getenv('GENAI_API_KEY')
+GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
 
 # Configure the generative AI
-genai.configure(api_key=GENAI_API_KEY)
+genai.configure(api_key=GEMINI_API_KEY)
 
 # Set up the generative model configuration
 generation_config = {
