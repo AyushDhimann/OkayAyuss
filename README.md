@@ -14,3 +14,8 @@ Use `/y` to prompt the OkayAyuss Bot
 
 
 <!-- GitAds-Verify: AIZEYB1KF9MTJM1F1VFOQZ5RD9L5JSWA -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ayushdhimann/okayayuss@github)](https://gitads.dev/v1/ad-track?source=ayushdhimann/okayayuss@github)
+
+
