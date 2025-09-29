@@ -11,3 +11,6 @@ Use `/y` to prompt the OkayAyuss Bot
 ```
 
 #### P.S: This project did bring back the fire in me to get back to coding again. Also, making a telegram bot is soo fun✨
+
+
+<!-- GitAds-Verify: AIZEYB1KF9MTJM1F1VFOQZ5RD9L5JSWA -->
